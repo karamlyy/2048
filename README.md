@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `npm install -g sass`
+### `npm install --silent`
+### `npm install react-scripts@4.0.3 -g --silent`
+### `npm install sass -save-dev`
+
 In the project directory, you can run:
 
 ### `npm start`
